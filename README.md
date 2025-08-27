@@ -116,8 +116,8 @@ import re
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone (https://github.com/EduardoOLSLRT/chatbotaula_santa_ads4na20252)
+   cd chatbotaula_santa_ads4na20252
    ```
 
 2. **Install dependencies**:
@@ -192,6 +192,7 @@ This project is for educational purposes. All code is open source and available 
 ## 👨‍💻 Author
 
 Developed as part of machine learning coursework focusing on practical applications of supervised and unsupervised learning techniques.
+Made by 4 members, which is described at this repository contributors
 
 ---
 
